@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+## Database
+|  |
+| ------- |
+| [2087-confirmation-rate](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
