@@ -9,5 +9,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0620-not-boring-movies) |
 | [2087-confirmation-rate](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
