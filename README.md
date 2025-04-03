@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Database
 |  |
