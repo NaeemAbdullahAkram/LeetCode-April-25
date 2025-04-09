@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Database
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
