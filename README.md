@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,8 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0416-partition-equal-subset-sum) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0368-largest-divisible-subset) |
+## String
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3243-count-the-number-of-powerful-integers) |
 <!---LeetCode Topics End-->
