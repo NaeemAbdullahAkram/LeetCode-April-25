@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
