@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0416-partition-equal-subset-sum) |
+| [1656-count-good-triplets](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3548-find-the-count-of-good-integers) |
