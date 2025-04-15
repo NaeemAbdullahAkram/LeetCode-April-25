@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0416-partition-equal-subset-sum) |
 | [1656-count-good-triplets](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2280-count-good-triplets-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2280-count-good-triplets-in-an-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -101,4 +102,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2050-count-good-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
