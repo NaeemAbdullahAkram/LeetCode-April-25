@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0416-partition-equal-subset-sum) |
 | [1656-count-good-triplets](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2280-count-good-triplets-in-an-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2626-count-the-number-of-good-subarrays) |
