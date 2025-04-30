@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2249-count-the-hidden-sequences) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-April-25/tree/master/2050-count-good-numbers) |
